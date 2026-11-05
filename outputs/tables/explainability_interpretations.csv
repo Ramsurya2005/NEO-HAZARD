@@ -1,0 +1,4 @@
+feature,permutation_importance_mean,interpretation
+orbit_uncertainty,0.18834955783768367,"orbit_uncertainty is among the three most influential raw features; higher values tend to increase discrimination toward hazard. SHAP dependence should be read as association, not causation."
+perihelion_dist,0.13048111895592646,"perihelion_dist is among the three most influential raw features; higher values tend to increase discrimination toward hazard. SHAP dependence should be read as association, not causation."
+perihelion_arg,0.0346165846526887,"perihelion_arg is among the three most influential raw features; higher values tend to increase discrimination toward hazard. SHAP dependence should be read as association, not causation."

@@ -1,0 +1,14 @@
+,skewness,flag_skewed_abs_gt_1
+n_approaches,2.8706910874850804,True
+inclination,1.4205463260023197,True
+orbital_period,1.3534915896624797,True
+aphelion_dist,1.115968013702527,True
+semi_major_axis,0.9384581721654324,False
+mean_velocity_kms,0.9098937506070741,False
+tisserand_j,0.289856739058529,False
+eccentricity,0.24313003905410344,False
+asc_node_long,0.08167836798263328,False
+orbit_uncertainty,0.07836667813345702,False
+min_miss_dist_au,0.06334990757495416,False
+perihelion_arg,-0.05049638265224517,False
+perihelion_dist,-0.38281362419108206,False

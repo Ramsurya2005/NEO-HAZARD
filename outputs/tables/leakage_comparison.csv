@@ -1,0 +1,17 @@
+analysis,feature_set,metric,mean,std,leaky_columns_used,interpretation
+Leak-free XGBoost,leak-free,roc_auc,0.9070644098763887,0.01059839537157438,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,pr_auc,0.6308022445995538,0.030333604417682104,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,precision,0.6848677543553635,0.04683051786980058,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,recall,0.41265367316341833,0.03557743793734419,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,f1,0.5133118930551399,0.026494358297570412,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,balanced_accuracy,0.6884630056560803,0.015603849836096232,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,mcc,0.4683960259854119,0.027394109524184012,False,Valid benchmark: only leak-free orbital and approach features
+Leak-free XGBoost,leak-free,brier,0.0842649241288503,0.004023678604903959,False,Valid benchmark: only leak-free orbital and approach features
+Leaky XGBoost,leaky,roc_auc,0.9996662628372196,0.00044461946033026896,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,pr_auc,0.9977597776329323,0.003692288471413107,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,precision,0.9826965640468757,0.011649094276000653,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,recall,0.9808995502248875,0.009407815301208582,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,f1,0.9817694420316224,0.009120179970545164,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,balanced_accuracy,0.9888454103760566,0.005317385122212674,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,mcc,0.9784201654389347,0.010806383511339218,True,Invalid demonstration: MOID and absolute magnitude encode the label definition
+Leaky XGBoost,leaky,brier,0.0039762188137198486,0.0020055386002921323,True,Invalid demonstration: MOID and absolute magnitude encode the label definition

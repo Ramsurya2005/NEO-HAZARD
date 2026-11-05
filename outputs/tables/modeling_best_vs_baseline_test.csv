@@ -1,0 +1,2 @@
+best_model,baseline,test,statistic,p,n_paired_folds
+XGBoost,DummyClassifier,Wilcoxon signed-rank on repeated-CV ROC-AUC,120.0,3.0517578125e-05,15

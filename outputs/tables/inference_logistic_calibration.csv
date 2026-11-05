@@ -1,0 +1,2 @@
+test,statistic,degrees_of_freedom,p,interpretation
+Hosmer-Lemeshow style decile calibration,29.594610980834442,8,0.00024923959123066594,Evidence of calibration lack of fit

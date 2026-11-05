@@ -1,0 +1,2 @@
+analysis,test,statistic,degrees_of_freedom,p,effect_size,effect_size_name,minimum_expected_count,all_expected_counts_at_least_5,adjusted_p,interpretation
+orbit_class_vs_hazard,Chi-square independence,190.21656474657604,3,5.480591480990984e-41,0.2269829943531192,Cramer's V,1.0920910075839654,False,5.480591480990984e-41,Evidence of association between orbit class and hazard

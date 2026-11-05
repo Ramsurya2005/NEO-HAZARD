@@ -1,0 +1,2 @@
+best_model,model_features,leaky_columns_used,cv
+XGBoost,"eccentricity, semi_major_axis, inclination, asc_node_long, orbital_period, perihelion_dist, aphelion_dist, perihelion_arg, tisserand_j, orbit_uncertainty, n_approaches, mean_velocity_kms, min_miss_dist_au, orbit_class",False,"RepeatedStratifiedKFold(n_splits=5, n_repeats=3, random_state=42)"

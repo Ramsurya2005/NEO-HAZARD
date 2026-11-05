@@ -1,0 +1,17 @@
+,dtype
+neo_id,int64
+hazardous,bool
+orbit_class,object
+eccentricity,float64
+semi_major_axis,float64
+inclination,float64
+asc_node_long,float64
+orbital_period,float64
+perihelion_dist,float64
+perihelion_arg,float64
+aphelion_dist,float64
+tisserand_j,float64
+orbit_uncertainty,int64
+n_approaches,int64
+mean_velocity_kms,float64
+min_miss_dist_au,float64

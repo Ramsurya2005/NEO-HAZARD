@@ -1,0 +1,17 @@
+feature,vif,flag_high_vif_gt_5
+semi_major_axis,inf,True
+perihelion_dist,inf,True
+aphelion_dist,inf,True
+orbital_period,901.6720614656914,True
+tisserand_j,73.68361075484916,True
+eccentricity,20.40118105435137,True
+orbit_Aten,6.168632316797717,True
+mean_velocity_kms,3.536337182369083,False
+orbit_Apollo,3.216787049031691,False
+inclination,2.0249286147032493,False
+min_miss_dist_au,1.478582216840101,False
+orbit_uncertainty,1.2219311673647464,False
+n_approaches,1.2058724788447353,False
+orbit_Aten+Atira,1.203767881552172,False
+perihelion_arg,1.0082065353072824,False
+asc_node_long,1.0047093666263684,False

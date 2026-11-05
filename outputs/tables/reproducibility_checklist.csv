@@ -1,0 +1,8 @@
+check,passed,details
+clean_dataset_exists,True,C:\Users\admin\OneDrive\Desktop\neo hazard\dataset\data\neo_asteroid_level_clean.csv
+model_features_exclude_all_leaky_columns,True,none
+required_output_modeling_feature_audit.csv,True,C:\Users\admin\OneDrive\Desktop\neo hazard\outputs\tables\modeling_feature_audit.csv
+required_output_leakage_comparison.csv,True,C:\Users\admin\OneDrive\Desktop\neo hazard\outputs\tables\leakage_comparison.csv
+required_output_modeling_roc_pr_curves.png,True,C:\Users\admin\OneDrive\Desktop\neo hazard\outputs\figures\modeling_roc_pr_curves.png
+required_output_explainability_shap_summary.png,True,C:\Users\admin\OneDrive\Desktop\neo hazard\outputs\figures\explainability_shap_summary.png
+saved_model_audit_excludes_all_leaky_columns,True,none
